@@ -7,6 +7,10 @@
 import random
 import tweepy
 
+CK = "insert key here"  # Consumer API key
+CS = "insert secret key here"  # Consumer API secret key
+AT = "insert token here"  # Access token
+AS = "insert secret token here"  # Access token secret
 
 auth = tweepy.OAuthHandler(CK, CS)
 auth.set_access_token(AT, AS)
