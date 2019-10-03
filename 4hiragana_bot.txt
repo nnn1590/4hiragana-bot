@@ -1,0 +1,2 @@
+Font: Noto Sans CJK JP Heavy + GIMP Neon
+Background: http://qianye88.com/tupian/44875.html
